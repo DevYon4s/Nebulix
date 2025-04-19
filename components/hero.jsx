@@ -9,8 +9,8 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 const navigation = [
   { name: "Product", href: "#" },
   { name: "Features", href: "#" },
-  { name: "Marketplace", href: "#" },
-  { name: "Company", href: "#" },
+  { name: "Testimonials", href: "#" },
+  { name: "FAQ", href: "#" },
 ];
 
 export default function Hero() {
@@ -132,7 +132,7 @@ export default function Hero() {
                     href="#"
                     className="text-sm font-semibold leading-6 text-gray-900"
                   >
-                    View Pricing <span aria-hidden="true">→</span>
+                    View Docs<span aria-hidden="true">→</span>
                   </a>
                 </div>
               </div>
