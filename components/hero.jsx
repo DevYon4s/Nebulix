@@ -132,7 +132,7 @@ export default function Hero() {
                     href="#"
                     className="text-sm font-semibold leading-6 text-gray-900"
                   >
-                    Learn more <span aria-hidden="true">→</span>
+                    View Pricing <span aria-hidden="true">→</span>
                   </a>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export default function Hero() {
           <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
             <img
               alt="App screenshot"
-              src="https://cdn.dribbble.com/userupload/9638368/file/original-80cbf873574636a009b558d559d095f7.png?format=webp&resize=400x300&vertical=center"
+              src="image.png"
               width={2432}
               height={500}
               className="rounded-md shadow-2xl ring-1 ring-gray-900/10"
