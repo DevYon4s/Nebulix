@@ -39,6 +39,7 @@ Visit the application in your browser at:
 - **React**: Frontend framework
 - **Vercel**: Hosting platform
 - **pnpm**: Package manager
+- **vanta.js** :the cloud animation on the top of the page
 
 ---
 
