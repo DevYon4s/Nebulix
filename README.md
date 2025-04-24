@@ -42,7 +42,3 @@ Visit the application in your browser at:
 - **vanta.js** :the cloud animation on the top of the page
 
 ---
-
-## 📄 License
-
-This project is for educational purposes and is not intended for production use.
